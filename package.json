@@ -1,0 +1,14 @@
+{
+  "name": "react-requirejs-example",
+  "description": "react requirejs example",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jsx": "~0.9.72",
+    "requirejs": "~2.1.9"
+  },
+  "private": true
+}
